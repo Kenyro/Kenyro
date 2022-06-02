@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently studying Front-end Development at Noroff University.
+
+- 📫 How to reach me:
+LinkedIn: https://www.linkedin.com/in/kevin-rundberg-93402914b/
+Twitter: [@kenyr0](https://twitter.com/Kenyr0)
+
 <!--
 **Kenyro/Kenyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
